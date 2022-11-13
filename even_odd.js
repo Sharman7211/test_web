@@ -1,7 +1,7 @@
 let num=10;
 
-if(num%3==0){
-console.log("yes");
+if(num%2==0){
+console.log("Even Number");
 }
-console.log("no");
+console.log("Odd Number");
 }
